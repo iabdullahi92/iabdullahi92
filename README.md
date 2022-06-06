@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iabdullahi92
-- 👀 I’m interested in Data analysis, data science and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data analysis, Data Science and AI.
 - 📫 How to reach me aill92@hotmail.com
 
 <!---
